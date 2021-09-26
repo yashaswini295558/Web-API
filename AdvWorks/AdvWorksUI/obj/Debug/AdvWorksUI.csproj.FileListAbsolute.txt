@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.exe.config
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.exe
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksBL.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDTO.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDAL.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksBL.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDTO.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDAL.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.exe
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.pdb

@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\bin\Debug\AdvWorksDAL.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\bin\Debug\AdvWorksDAL.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\bin\Debug\AdvWorksDTO.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\bin\Debug\AdvWorksDTO.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\obj\Debug\AdvWorksDAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\obj\Debug\AdvWorksDAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\obj\Debug\AdvWorksDAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\obj\Debug\AdvWorksDAL.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDAL\obj\Debug\AdvWorksDAL.pdb

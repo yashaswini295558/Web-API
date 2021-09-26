@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDTO\bin\Debug\AdvWorksDTO.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDTO\bin\Debug\AdvWorksDTO.pdb
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.dll
+C:\Users\Admin\Desktop\Genesis\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.pdb
