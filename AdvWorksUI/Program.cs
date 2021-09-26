@@ -17,7 +17,7 @@ namespace AdvWorksUI
             {
                 Console.WriteLine(prod.ProdName + "|" + prod.ProdNumber + "|" + prod.ProdColor + "|" + prod.ProdPrice + "|" + prod.ProdDaysToManuf);
             }
-            Console.WriteLine("Total number of products = " + products.Count);
+            Console.WriteLine("Total number of products === " + products.Count);
         }
     }
 }
